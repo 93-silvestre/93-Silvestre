@@ -1,7 +1,11 @@
-## Hey! Welcome to my profile! How is it going? 👋
+##  Welcome to my profile! 👋
+
+#### My name is Nathalia Silvestre. 
+     I'm from Brazil  🟩🟨🟦
+
 ![Commits](https://github-readme-stats.vercel.app/api?username=93-silvestre)
 
-#### My name is Nathalia Silvestre. I'm from Brazil  🟩🟨🟦
+
 
 - 🚀 I’m currently studding in Generation Brazil
 - 💻 Building cool stuffs with Eclipse
