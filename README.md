@@ -11,7 +11,7 @@
 
 - ✨ Learning is continuous and there will always be a next level
 
-![Commits](https://github-readme-stats.vercel.app/api?username=93-silvestre)
+![Commits](https://github-readme-stats.vercel.app/api?username=93-silvestre)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=blueberry&show_icons=true) 
 
 
 
