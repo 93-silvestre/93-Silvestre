@@ -11,7 +11,8 @@
 
 - ✨ Learning is continuous and there will always be a next level
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=93-silvestre&theme=blueberry&show_icons=true) [! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = 93-silvestre & layout = compact )] (https://github.com/anuraghazra/github-readme- Estatísticas)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=93-silvestre&theme=blueberry&show_icons=true) 
+! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = 93-silvestre & layout = compact )] (https://github.com/93-silvestre/github-readme- Estatísticas)
 
 
 
