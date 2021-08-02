@@ -2,6 +2,8 @@
 
 #### My name is Nathalia Silvestre. 
      I'm from Brazil  🟩🟨🟦
+     
+     https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white=https://instagram.com/nathalia.silvestree?utm_medium=copy_linka
 
 - 🚀 Developer Java Junior Full Stack (In formation at Generation Brasil)
 
