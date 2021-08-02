@@ -4,10 +4,7 @@
      I'm from Brazil  🟩🟨🟦
      
 
-
-- 🚀 Developer Java Junior Full Stack (In formation at Generation Brasil)
-
-- 💻 Building cool stuffs with Eclipse
+- 💻🚀 Developer Java Junior Full Stack 
 
 - ✨ Learning is continuous and there will always be a next level
 
