@@ -27,7 +27,7 @@
 ##
  <div>   
  <a href="https://www.linkedin.com/in/nathalia-ribeiro-silvestre-381849215" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:nathyribsilvestreo@gmail.com)
+[<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](nathyribsilvestre@gmail.com)
 
 
 
