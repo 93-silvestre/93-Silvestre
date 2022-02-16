@@ -3,7 +3,7 @@
 #### My name is Nathalia Silvestre. 
      I'm from Brazil  🟩🟨🟦
      
-- 💻🚀 Developer Java Junior Full Stack 
+- 💻🚀 Support Development Analyst
 
 - ✨ My biggest goal? Constant development!
 
